@@ -1,6 +1,2 @@
-#!/bin/bashi
-<<<<<<< HEAD
-echo"the school is open!"
-=======
+#!/bin/bash
 echo "the school is open!"
->>>>>>> update_script
